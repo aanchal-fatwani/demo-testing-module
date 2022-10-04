@@ -1,0 +1,13 @@
+{
+    "name": "demo-testing-module",
+    "version": "0.0.1",
+    "description": "Testing module",
+    "license": "MIT",
+    "repository": "aanchal-fatwani/demo-testing-module",
+    "main": "index.js",
+    "keywords": [
+      "npm",
+      "package"
+    ]
+  }
+  
