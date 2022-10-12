@@ -1,6 +1,6 @@
 {
     "name": "demo-testing-module",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "This is testing module",
     "license": "MIT",
     "repository": "aanchal-fatwani/demo-testing-module",
@@ -9,7 +9,8 @@
       "npm",
       "package",
       "test",
-      "module"
+      "module",
+      "demo"
     ]
   }
   
