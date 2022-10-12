@@ -1,3 +1,3 @@
 module.exports = function test() {
-    return "This is test output"
+    return "This is sample output"
 }
